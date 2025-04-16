@@ -70,7 +70,17 @@ int main(void)
 
 
 // Logical Operators
+// int year = 2018;
+// int price = 21000;
 
+// if(year >= 2019 && price <= 20000) printf("OK\n");
+// else printf("Not OK!\n");
+
+// if(year >= 2019 || price <= 20000) printf("OK\n");
+// else printf("Not OK!\n");
+
+// if(year >= 2019 != price <= 20000) printf("OK\n");
+// else printf("Not OK!\n");
 
 // Switch statements
 // While loop
