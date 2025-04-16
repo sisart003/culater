@@ -1,10 +1,11 @@
 #include <stdio.h>
+#include <ctype.h>
+#include <string.h>
 
 int main(void)
 {
 
 
-    
     return 0;
 }
 // C Basics
@@ -83,6 +84,45 @@ int main(void)
 // else printf("Not OK!\n");
 
 // Switch statements
+    // int num = 11;
+    
+    // switch(num)
+    // {
+    //     case 1:
+    //         printf("Case 1\n");
+    //         break;
+
+    //     case 2:
+    //         printf("Case 2\n");
+    //         break;
+        
+    //     default:
+    //         printf("Default Case\n");
+    //         break;
+    // }
+
+    // vowel count program
+    // char s[] = "aFJFJiofsFJAAAIEF";
+    // int length = strlen(s);
+    // int a = 0;
+    // int vowel = 0;
+
+    // for (int i = 0; i < length; i++)
+    // {
+    //     switch(toupper(s[i]))
+    //     {
+    //         case 'A':
+    //             a++;
+    //         case 'E':
+    //         case 'I':
+    //         case 'O':
+    //         case 'U':
+    //             vowel++;
+    //     }
+    // }
+
+    // printf("a: %d, vowel: %d\n", a, vowel);
+
 // While loop
 // do while loop
 // for loops
