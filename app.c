@@ -4,7 +4,7 @@ int main(void)
 {
 
 
-
+    
     return 0;
 }
 // C Basics
@@ -53,3 +53,27 @@ int main(void)
 // printf("Enter a string: ");
 // scanf("%s", buffer);
 // printf("You entered: %s\n", buffer);
+
+// // If Statement
+// int x = 4;
+// if(x==2)
+// {
+//     printf("X is equal to 2!\n");
+// }else if(x==4){
+//     printf("X is equal to 4!\n");
+// }
+// else{
+//     printf("X does not equal to a given value!\n");
+// }
+
+// printf("If done!\n");
+
+
+// Logical Operators
+
+
+// Switch statements
+// While loop
+// do while loop
+// for loops
+// break and continue statements
